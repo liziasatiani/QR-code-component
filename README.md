@@ -19,7 +19,6 @@ I am open for any advice you will have for me.
 
 ## Author
 
-- Website - [Lizi Asatiani](https://www.your-site.com)
 - Frontend Mentor - [@liziasatiani](https://www.frontendmentor.io/profile/liziasatiani)
 - Linkedin - [@liziasatiani](https://www.linkedin.com/in/lizi-asatiani/)
 
